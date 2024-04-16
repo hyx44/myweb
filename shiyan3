@@ -15,7 +15,7 @@
 	</head>
 	<body>
 		<script>
-			//219970710黄奎海
+			//219970711黄钰勋
 		</script>
 		<div id="cont_left">
 			<ul><img src="img/fold.gif"><a onclick="show('main1')"> 通过DOM获取信息 </a>
